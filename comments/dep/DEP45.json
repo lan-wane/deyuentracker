@@ -4,7 +4,7 @@
     "related_type": "dep",
     "related_public_id": "DEP45",
     "title": "【DEP】DEP45",
-    "updated_at": "2026-10-03T08:31:46.836Z"
+    "updated_at": "2026-10-03T10:10:56.342Z"
   },
   "comments": [
     {
@@ -12,6 +12,12 @@
       "author": "Minecraft碧海",
       "time": "2026-10-03T08:31:46.836Z",
       "content": "提案投票不绑定登录态，实现有点复杂"
+    },
+    {
+      "id": "1791022256_7h0ctdbc",
+      "author": "Tup",
+      "time": "2026-10-03T10:10:56.342Z",
+      "content": "感觉用处不大，实现难度底层还得大改"
     }
   ]
 }
