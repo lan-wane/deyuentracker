@@ -4,7 +4,14 @@
     "related_type": "dep",
     "related_public_id": "DEP45",
     "title": "【DEP】DEP45",
-    "updated_at": "2026-10-03T06:40:09.007Z"
+    "updated_at": "2026-10-03T08:31:46.836Z"
   },
-  "comments": []
+  "comments": [
+    {
+      "id": "1791016306_sd99prxd",
+      "author": "Minecraft碧海",
+      "time": "2026-10-03T08:31:46.836Z",
+      "content": "提案投票不绑定登录态，实现有点复杂"
+    }
+  ]
 }
